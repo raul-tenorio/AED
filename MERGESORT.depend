@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1614267953 source:c:\users\hp\desktop\mergesort\main.cpp
+	<iostream>
+	<fstream>
+
