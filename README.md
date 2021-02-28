@@ -1,5 +1,6 @@
 # ESCUELA POLITÉCNICA NACIONAL
 Algoritmos y Estructuras de Datos
+
 Integrantes:
 - Raúl Tenorio
 - Manuel Auqui
