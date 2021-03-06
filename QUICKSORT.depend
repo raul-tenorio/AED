@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1615054481 source:c:\users\hp\desktop\quicksort\main.cpp
+	<iostream>
+	"quicksort.h"
+	"ingresar.h"
+
+1615054588 c:\users\hp\desktop\quicksort\quicksort.h
+
+1615054435 c:\users\hp\desktop\quicksort\ingresar.h
+	<iostream>
+
