@@ -1,0 +1,4 @@
+Arreglo original: [1][4][3][2][5]
+Arreglo ordenado por Mergesort: [1][2][3][4][5]
+Elemento a buscar: 3
+Se encontró 3 en la posición 3 del arreglo

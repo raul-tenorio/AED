@@ -1,0 +1,15 @@
+******* DATOS DEL PROVEEDOR *******
+Código	Nombre	Ciudad	Teléfono
+100	Ra£l	Quito	967363998
+101	Manuel	Quito	958142536
+102	Leonel	Quito	958142536
+
+
+******* DATOS DEL PRODUCTO *******
+Nombre	Precio	Cantidad	Estado
+Yogurt	3	10		Nuevo
+
+
+El precio total de productos:		$3
+Cantidad de productos ingresados:	10
+El valor total:				$30

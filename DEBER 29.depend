@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1615057925 source:c:\users\hp\desktop\deber 29\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	"ejercicios.h"
+
+1615057912 c:\users\hp\desktop\deber 29\ejercicios.h
+	<iostream>
+	<fstream>
+	<ctime>
+
