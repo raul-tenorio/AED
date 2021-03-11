@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615479792 source:c:\users\hp\desktop\heapsort\main.cpp
+	<iostream>
+	<fstream>
+
